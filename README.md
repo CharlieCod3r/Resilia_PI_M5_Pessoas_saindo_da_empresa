@@ -35,12 +35,12 @@
 
 ---
 ### Referências
-[Story Telling with data](https://community.storytellingwithdata.com/exercises/whats-the-story-here)
-[Fuga de Talentos](https://www.gupy.io/blog/fuga-de-talentos)
-[Como Evitar as Demissões Inesperadas](https://www.gescontreinamentos.com.br/como-evitar-as-demissoes-inesperadas/)
-[Veja dicas para implementar na sua empresa](https://tangerino.com.br/blog/dicas-para-melhorar-a-gestao-de-recursos-humanos/)
+- [Story Telling with data](https://community.storytellingwithdata.com/exercises/whats-the-story-here)
+- [Fuga de Talentos](https://www.gupy.io/blog/fuga-de-talentos)
+- [Como Evitar as Demissões Inesperadas](https://www.gescontreinamentos.com.br/como-evitar-as-demissoes-inesperadas/)
+- [Veja dicas para implementar na sua empresa](https://tangerino.com.br/blog/dicas-para-melhorar-a-gestao-de-recursos-humanos/)
+- Curso Data Analytics na Resilia Educação.
 
-Curso Data Analytics na Resilia Educação.
 ### Sobre mim:
 
 - Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
